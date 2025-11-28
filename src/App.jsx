@@ -11,13 +11,12 @@ export default function App() {
           mapsLink="https://www.google.com/maps/search/Drive%20to%20Mount%20Olympus,%20Mount%20Olympus,%20Greece"
           name="Olympos"
           date="March - October"
-          description="Στην Μακεδονία, το πιο μεγαλόπρεπο βουνό, ο Όλυμπος, σας προσκαλεί να ανακαλύψετε τη μαγεία του. Στα μονοπάτια και τις κρυφές του γωνιές, στα ψηλά δέντρα και τα άγρια βράχια, μέχρι να φτάσετε πάνω από τα σύννεφα. Αυτοκίνητο, πεζοπορία ή σπορ βουνού; Όλες οι επιλογές θα σας ανταμείψουν με απίστευτες εικόνες στον Όλυμπο. Πάντα μπροστά σας, όμως, υψώνεται επιβλητική η πρόκληση. Θα καταφέρετε να κατακτήσετε την κορυφή των θεών;"
+          description="At Macedonia In Greek mythology, Olympus is the home of the Greek gods, on Mytikas peak. The mountain has exceptional biodiversity and rich flora."
         />
         <Entry
-          img="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/01/04/30/45/skiathos-town.jpg?w=1400&h=500&s=1"
-          country="Greece - Sporades Islands"
-          mapsLink="https://www.google.com/maps/place/Skiathos/@39.1694464,23.4095034,14369m/data=!3m2!1e3!4b1!4m6!3m5!1s0x14a6e0992b1d42b5:0x4a2e6a478bd85533!8m2!3d39.16352!4d23.4901667!16zL20vMDR2cW5y?entry=ttu&g_ep=EgoyMDI1MTEyMy4xIKXMDSoASAFQAw%3D%3D"
-          name="Skiathos"
+          img="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/20/80/c5/tsougrias-beach.jpg?w=1400&h=500&s=1"
+          mapsLink="
+          https://www.google.com/maps/place/Skiathos/@39.1694464,23.4095034,14369m/data=!3m2!1e3!4b1!4m6!3m5!1s0x14a6e0992b1d42b5:0x4a2e6a478bd85533!8m2!3d39.16352!4d23.4901667!16zL20vMDR2cW5y?entry=ttu&g_ep=EgoyMDI1MTEyMy4xIKXMDSoASAFQAw%3D%3D"
           date="April - September"
           description="The island is picturesque, unspoilt and blessed with more than 60 beautifully crystal clear waters and beaches. The most famous is Koukounaries, which is considered as the third most beautiful beach in the Mediterranean."
         />
