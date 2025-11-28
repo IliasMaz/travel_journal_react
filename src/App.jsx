@@ -13,13 +13,17 @@ export default function App() {
           date="March - October"
           description="At Macedonia In Greek mythology, Olympus is the home of the Greek gods, on Mytikas peak. The mountain has exceptional biodiversity and rich flora."
         />
+
         <Entry
           img="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/20/80/c5/tsougrias-beach.jpg?w=1400&h=500&s=1"
+          country="Greece-Sporades"
           mapsLink="
           https://www.google.com/maps/place/Skiathos/@39.1694464,23.4095034,14369m/data=!3m2!1e3!4b1!4m6!3m5!1s0x14a6e0992b1d42b5:0x4a2e6a478bd85533!8m2!3d39.16352!4d23.4901667!16zL20vMDR2cW5y?entry=ttu&g_ep=EgoyMDI1MTEyMy4xIKXMDSoASAFQAw%3D%3D"
+          name="Skiathos Island"
           date="April - September"
           description="The island is picturesque, unspoilt and blessed with more than 60 beautifully crystal clear waters and beaches. The most famous is Koukounaries, which is considered as the third most beautiful beach in the Mediterranean."
         />
+
         <Entry
           img="https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcTK5Kk_E0HaO8yZfJ9oauOXw4LuteAQhjAwkgfR_yXifwADTFrxav4SNODAzhwgAOTgHic67PQc32SLkDVbv0rNB2A&s=19"
           country="Greece - Epirus"

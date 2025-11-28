@@ -26,7 +26,9 @@ export default function Entry({img,country,mapsLink,name,date,description}) {
         <p className="entry-text">
           {description}
         </p>
+        <hr/>
       </div>
+
     </article>
   );
 }
