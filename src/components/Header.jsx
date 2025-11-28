@@ -6,7 +6,7 @@ export default function Header() {
     <header>
       <div className="div-header">
         <img src={globeImage} className="img-settings" alt="react-image" />
-        <h1>my  GR journal.</h1>
+        <h1>my  GRtravel journal.</h1>
       </div>
     </header>
   );
