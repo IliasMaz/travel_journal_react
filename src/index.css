@@ -46,6 +46,10 @@ div>h1{
 
 article.journal-entry{
   display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+  margin-left: 20px;
 }
 
 article.journal-entry .second-image{
@@ -55,11 +59,11 @@ article.journal-entry .second-image{
 
 
 div.info-container{
-  margin-left: 15px;
+  margin-left: 10px;
 }
 
 div.info-container span{
-  margin-right: 12px;
+  margin-right: 8px;
   text-transform: uppercase;
   font-weight: bold;
 }
