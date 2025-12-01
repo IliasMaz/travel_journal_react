@@ -1,4 +1,4 @@
-import locationMarker from "../assets/location.svg";
+ import locationMarker from "../assets/location.svg";
 import styles from "./Entry.module.css"
 
 export default function Entry({img,country,mapsLink,name,date,description}) {
@@ -6,9 +6,9 @@ export default function Entry({img,country,mapsLink,name,date,description}) {
     <article className="journal-entry">
       <div className={styles.mainImageContainer}>
         <img
-          src={img}
+          src={img.src}
           className={styles.mainImage}
-          alt=" picture"
+          alt={img.alt}
         />
       </div>
       <div className="info-container">
