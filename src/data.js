@@ -19,7 +19,7 @@ export default [
       src: "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/20/80/c5/tsougrias-beach.jpg?w=1400&h=500&s=1",
       alt: "skiathos",
     },
-    country: "Greece-Sporades",
+    country: "Greece - Sporades",
     mapsLink:
       "https://www.google.com/maps/search/%CE%9C%CE%B9%CE%BA%CF%81%CF%8C%20%CE%A0%CE%AC%CF%80%CE%B9%CE%B3%CE%BA%CE%BF%2C%20Zagori%20Municipality%2C%20Ioannina%20Regional%20Unit%2C%20Epirus%2C%20Epirus%20and%20Western%20Macedonia%2C%20440%2004%2C%20Greece",
     name: "Skiathos",

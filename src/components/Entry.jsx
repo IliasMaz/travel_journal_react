@@ -1,14 +1,17 @@
  import locationMarker from "../assets/location.svg";
 import styles from "./Entry.module.css"
 
-export default function Entry({img,country,mapsLink,name,date,description}) {
+export default function Entry(
+  props
+  // {img,country,mapsLink,name,date,description}
+) {
   return (
     <article className="journal-entry">
       <div className={styles.mainImageContainer}>
         <img
-          src={img.src}
+          src={props.entry.img.src}
           className={styles.mainImage}
-          alt={img.alt}
+          alt={props.entry.img.alt}
         />
       </div>
       <div className="info-container">
@@ -17,18 +20,13 @@ export default function Entry({img,country,mapsLink,name,date,description}) {
           className="second-image"
           alt="location marker"
         />
-        <span>{country}</span>
-        <a href={mapsLink} >
-          View on Google Maps
-        </a>
-        <h2 className="entry-title">{name}</h2>
-        <p className="trip-dates">{date}</p>
-        <p className="entry-text">
-          {description}
-        </p>
-        <hr/>
+        <span>{props.entry.country}</span>
+        <a href={props.entry.mapsLink}>View on Google Maps</a>
+        <h2 className="entry-title">{props.entry.name}</h2>
+        <p className="trip-dates">{props.entry.date}</p>
+        <p className="entry-text">{props.entry.description}</p>
+        <hr />
       </div>
-
     </article>
   );
 }

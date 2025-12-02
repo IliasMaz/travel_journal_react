@@ -3,18 +3,19 @@ import Entry from "./components/Entry.jsx";
 import data from "./data.js";
 export default function App() {
 
-  const dataTrip = data.map((place)=>{
+  const dataTrip = data.map((entry)=>{
     return (
       <Entry
-        img={{
-          src: place.img.src,
-          alt: place.img.src
-        }}
-        country={place.country}
-        mapsLink={place.mapsLink}
-        name={place.name}
-        date={place.date}
-        description={place.description}
+
+      key={entry.id}
+      entry={entry}
+        // key={place.id}
+        // img={place.img}
+        // country={place.country}
+        // mapsLink={place.mapsLink}
+        // name={place.name}
+        // date={place.date}
+        // description={place.description}
       />
     )
   })
