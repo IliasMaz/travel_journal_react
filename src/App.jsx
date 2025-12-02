@@ -8,7 +8,10 @@ export default function App() {
       <Entry
 
       key={entry.id}
-      entry={entry}
+      {...entry}
+      // entry={entry}
+
+      //2
         // key={place.id}
         // img={place.img}
         // country={place.country}

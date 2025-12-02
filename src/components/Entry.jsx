@@ -9,9 +9,9 @@ export default function Entry(
     <article className="journal-entry">
       <div className={styles.mainImageContainer}>
         <img
-          src={props.entry.img.src}
+          src={props.img.src}
           className={styles.mainImage}
-          alt={props.entry.img.alt}
+          alt={props.img.alt}
         />
       </div>
       <div className="info-container">
@@ -20,11 +20,11 @@ export default function Entry(
           className="second-image"
           alt="location marker"
         />
-        <span>{props.entry.country}</span>
-        <a href={props.entry.mapsLink}>View on Google Maps</a>
-        <h2 className="entry-title">{props.entry.name}</h2>
-        <p className="trip-dates">{props.entry.date}</p>
-        <p className="entry-text">{props.entry.description}</p>
+        <span>{props.country}</span>
+        <a href={props.mapsLink}>View on Google Maps</a>
+        <h2 className="entry-title">{props.name}</h2>
+        <p className="trip-dates">{props.date}</p>
+        <p className="entry-text">{props.description}</p>
         <hr />
       </div>
     </article>
