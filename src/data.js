@@ -42,17 +42,30 @@ export default [
       "Papingo is a former community in the Ioannina regional unit, Epirus, Greece. Since the 2011 local government reform it has become part of the municipality of Zagori, of which it is a municipal unit. The municipal unit has an area of 34.131 km². It is located in the Vikos–Aoös National Park.",
   },
   {
-    id: 4,
+    id: 5,
     img: {
-      src: "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcTK5Kk_E0HaO8yZfJ9oauOXw4LuteAQhjAwkgfR_yXifwADTFrxav4SNODAzhwgAOTgHic67PQc32SLkDVbv0rNB2A&s=19",
-      alt: "epirus",
+      src: "https://encrypted-tbn0.gstathttps://images.unsplash.com/photo-1505739770651-9f41b0c9a3ac?auto=format&fit=crop&w=1200&q=80ic.com/images?q=tbn:ANd9GcR3AooQvcaMJAP_XFXYi0B8Cvk7kMFNT7tNbQ&s",
+      alt: "santorini",
     },
-    country: "Greece - Epirus",
-    mapsLink:
-      "https://www.google.com/maps/search/%CE%9C%CE%B9%CE%BA%CF%81%CF%8C%20%CE%A0%CE%AC%CF%80%CE%B9%CE%B3%CE%BA%CE%BF%2C%20Zagori%20Municipality%2C%20Ioannina%20Regional%20Unit%2C%20Epirus%2C%20Epirus%20and%20Western%20Macedonia%2C%20440%2004%2C%20Greece",
-    name: "Papingo",
-    date: "November - February",
+    country: "Greece - Cyclades",
+    mapsLink: "https://www.google.com/maps/place/Oia,+847+02,+Greece/",
+    name: "Oia, Santorini",
+    date: "April - October",
     description:
-      "Papingo is a former community in the Ioannina regional unit, Epirus, Greece. Since the 2011 local government reform it has become part of the municipality of Zagori, of which it is a municipal unit. The municipal unit has an area of 34.131 km². It is located in the Vikos–Aoös National Park.",
+      "Oia is a scenic village on the island of Santorini, famous for its whitewashed houses, blue-domed churches and stunning sunsets over the caldera. Built on the cliffside, it offers panoramic views of the Aegean Sea and is one of the most iconic destinations in Greece.",
+  },
+  {
+    id: 6,
+    img: {
+      src: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHjY2DssEviC0fXcfxyZ2oCCuuyeQ-laWRrw&s",
+      alt: "meteora",
+    },
+    country: "Greece - Thessaly",
+    mapsLink:
+      "https://www.google.com/maps/place/Meteora,+Kalampaka+422+00,+Greece/",
+    name: "Meteora",
+    date: "All year round",
+    description:
+      "Meteora is a UNESCO World Heritage site in central Greece, known for its towering rock formations and centuries-old monasteries perched on top. Combining natural beauty with spiritual heritage, it’s ideal for hiking, photography and cultural exploration.",
   },
 ];
