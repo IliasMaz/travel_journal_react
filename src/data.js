@@ -44,7 +44,7 @@ export default [
   {
     id: 5,
     img: {
-      src: "https://encrypted-tbn0.gstathttps://images.unsplash.com/photo-1505739770651-9f41b0c9a3ac?auto=format&fit=crop&w=1200&q=80ic.com/images?q=tbn:ANd9GcR3AooQvcaMJAP_XFXYi0B8Cvk7kMFNT7tNbQ&s",
+      src: "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1d/81/30/3f/caption.jpg?w=1400&h=1400&s=1&cx=1846&cy=1833&chk=v1_6ae0a81ae3361e988707",
       alt: "santorini",
     },
     country: "Greece - Cyclades",
@@ -57,7 +57,7 @@ export default [
   {
     id: 6,
     img: {
-      src: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHjY2DssEviC0fXcfxyZ2oCCuuyeQ-laWRrw&s",
+      src: "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/31/ab/b5/92/caption.jpg?w=1400&h=-1&s=1",
       alt: "meteora",
     },
     country: "Greece - Thessaly",
