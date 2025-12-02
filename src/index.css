@@ -42,13 +42,14 @@ div>h1{
 
 .div-header{
   display: flex;
-  justify-content: center;
+  justify-content:flex-start;
   padding: 6px;
+  margin-left: 15px;
 }
 
 article.journal-entry{
   display: flex;
-  
+
   padding: 20px;
   margin-left: 20px;
 }

@@ -41,4 +41,18 @@ export default [
     description:
       "Papingo is a former community in the Ioannina regional unit, Epirus, Greece. Since the 2011 local government reform it has become part of the municipality of Zagori, of which it is a municipal unit. The municipal unit has an area of 34.131 km². It is located in the Vikos–Aoös National Park.",
   },
+  {
+    id: 4,
+    img: {
+      src: "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcTK5Kk_E0HaO8yZfJ9oauOXw4LuteAQhjAwkgfR_yXifwADTFrxav4SNODAzhwgAOTgHic67PQc32SLkDVbv0rNB2A&s=19",
+      alt: "epirus",
+    },
+    country: "Greece - Epirus",
+    mapsLink:
+      "https://www.google.com/maps/search/%CE%9C%CE%B9%CE%BA%CF%81%CF%8C%20%CE%A0%CE%AC%CF%80%CE%B9%CE%B3%CE%BA%CE%BF%2C%20Zagori%20Municipality%2C%20Ioannina%20Regional%20Unit%2C%20Epirus%2C%20Epirus%20and%20Western%20Macedonia%2C%20440%2004%2C%20Greece",
+    name: "Papingo",
+    date: "November - February",
+    description:
+      "Papingo is a former community in the Ioannina regional unit, Epirus, Greece. Since the 2011 local government reform it has become part of the municipality of Zagori, of which it is a municipal unit. The municipal unit has an area of 34.131 km². It is located in the Vikos–Aoös National Park.",
+  },
 ];
